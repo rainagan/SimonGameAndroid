@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu1_GoToBut1"
+        android:title="1 But" />
+    <item
+        android:id="@+id/menu1_GoToBut2"
+        android:title="2 But" />
+    <item
+        android:id="@+id/menu1_GoToBut3"
+        android:title="3 But" />
+    <item
+        android:id="@+id/menu1_GoToBut5"
+        android:title="5 But" />
+    <item
+        android:id="@+id/menu1_GoToBut6"
+        android:title="6 But" />
+</menu>
